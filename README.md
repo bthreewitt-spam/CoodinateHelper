@@ -2,7 +2,7 @@
 ![](.readmePics/2.png)
 
 ## How to add to your project
-1) Download the zip file
+1) Download the zip file  
    ![](.readmePics/6.png)
 2) Add the 'CoordinateHelper' folder to your project in the same directory as your html file  
    (ex. *index.html*)  
