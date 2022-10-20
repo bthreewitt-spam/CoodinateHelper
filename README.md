@@ -4,12 +4,14 @@
 ## How to add to your project
 1) Download the zip file  
    ![](.readmePics/6.png)
-2) Add the 'CoordinateHelper' folder to your project in the same directory as your html file  
+2) Extract CoordinateHelper-master.zip
+
+3) Add the 'CoordinateHelper' folder found inside 'CoordinateHelper-master' to your project in the same directory as your html file  
    (ex. *index.html*)  
+   
    ![](.readmePics/1.png)  
 
-   
-3) Add this line to your html file
+4) Add this line to your html file
 
    ```html 
    <script src="CoordinateHelper/coordinatePointer.js"></script>
