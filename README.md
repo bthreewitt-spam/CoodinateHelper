@@ -3,14 +3,16 @@
 
 ## How to add to your project
 1) Download the zip file  
-   ![](.readmePics/6.png)
-2) Extract CoordinateHelper-master.zip
-
+   ![](.readmePics/6.png)  
+   &nbsp;
+2) Extract CoordinateHelper-master.zip  
+   &nbsp;  
 3) Add the 'CoordinateHelper' folder found inside 'CoordinateHelper-master' to your project in the same directory as your html file  
    (ex. *index.html*)  
-   
+   ![](.readmePics/7.png)
+   &nbsp;  
    ![](.readmePics/1.png)  
-
+   &nbsp;
 4) Add this line to your html file
 
    ```html 
